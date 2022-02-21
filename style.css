@@ -13,3 +13,9 @@
 .wf{
     color: #ddd;
 }
+.d-flex{
+    display: flex;
+}
+.m-auto{
+    margin: auto;
+}
