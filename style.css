@@ -1,11 +1,15 @@
 .bb{
-    background-color: #6A5ACD;
+    background-color: darkcyan;
 }
 .wid{
     width: 500px;
 }
 .bb-1{
-    background-color: black;
+    background-color: #6A5ACD;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    text-align: center;
 }
 .ct{
   text-align: center;
