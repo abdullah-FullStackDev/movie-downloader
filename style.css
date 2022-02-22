@@ -2,7 +2,7 @@
     background-color: darkcyan;
 }
 .wid{
-    width: 500px;
+    width: 400px;
 }
 .bb-1{
     background-color: #6A5ACD;
@@ -40,12 +40,10 @@ body{
 .al{
     align-items: center;
 }
-.cc{
-    justify-content: center;
-}
 .fz{
     font-size: 16px;
 }
 .ss{
+    display: flex;
     justify-content: space-evenly;
 }
