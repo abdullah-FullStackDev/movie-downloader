@@ -47,6 +47,7 @@ body{
     display: flex;
     justify-content: space-evenly;
 }
-.fl{
-    float: left;
+.container{
+    background-color: #777;
+    width: 75px;
 }
