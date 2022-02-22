@@ -35,3 +35,9 @@ body{
     display: flex;
     flex-direction: column;
 }
+.wi-2{
+    width: 15%;
+}
+.al{
+    align-items: center;
+}
