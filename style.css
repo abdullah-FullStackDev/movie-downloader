@@ -52,3 +52,21 @@ body{
     width: 75px;
     height: 100px;
 }
+.f-size{
+    font-size: 20px;
+}
+#s-image{
+    border-radius: 50%;
+   height: 40px;
+  }
+  footer{
+      background-color: #271f1f57;
+      text-align: center;
+      margin-bottom: 0;
+  }
+  .g-p-m{
+      margin-top: 1%;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
