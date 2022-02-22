@@ -38,7 +38,7 @@ body{
     width: 15%;
 }
 .al{
-    align-items: center;
+  text-align: center;
 }
 .fz{
     font-size: 16px;
