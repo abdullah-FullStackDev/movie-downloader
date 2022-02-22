@@ -6,7 +6,6 @@
 }
 .bb-1{
     background-color: #6A5ACD;
-    width: 100%;
     top: 0;
     padding: 20px;
 }
@@ -47,7 +46,6 @@ body{
 .fz{
     font-size: 2em;
 }
-.fc{
-    display: flex;
-    flex-wrap: wrap;
+.ss{
+    justify-content: space-evenly;
 }
