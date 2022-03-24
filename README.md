@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/kfc-food-page/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/movie-downloader/)
 
 ## Getting Started
 
