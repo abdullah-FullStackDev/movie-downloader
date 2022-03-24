@@ -1,7 +1,7 @@
 # movie-downloader
 > This project consists of building a movie-downloader to understand the use of css frameworks, in this project i used HTML5/CSS3 for making the front-end of this web-site and i wanted to know how HTML5/CSS3 works.
 
-![Alt text](https://github.com/abdullah-FullStackDev/kfc-food-page/blob/main/Screenshot%20(29).png)
+![Alt text](https://github.com/abdullah-FullStackDev/movie-downloader/blob/main/ss.png)
 
 ## Built With
 
